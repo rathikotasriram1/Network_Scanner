@@ -34,7 +34,6 @@ Swagger Docs → http://localhost:8000/docs
 List scans → http://localhost:8000/scans
 
 Run frontend:
-
 cd frontend
 
 npm install
